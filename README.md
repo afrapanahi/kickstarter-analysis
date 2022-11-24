@@ -24,3 +24,4 @@ There is no data on who the backers are.
 We can analyze campaigns for other platforms and compare with plays and determine the one with most success. To do that we can do a pivot table similar to the one we did for plays and compare.
 # kickstarter-analysis
 ![Outcome vs goals](/resources/Outcomes_vs_Goals.png?raw=true "Outcome vs goals")
+![Outcome vs launch date](/resources/Theater_Outcomes_vs_Launch.png?raw=true "Outcome vs launch date")
